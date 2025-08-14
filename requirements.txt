@@ -1,11 +1,13 @@
-pandas>=1.3.0
-numpy>=1.21.0
+pandas
+numpy
 jupyter
 notebook
 pyspark
 sqlalchemy
-psycopg2-binary
+mysql-connector-python
 matplotlib
 seaborn
 scikit-learn
 openpyxl
+dotenv
+plotly
