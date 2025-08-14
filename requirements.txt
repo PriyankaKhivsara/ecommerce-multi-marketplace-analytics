@@ -4,11 +4,8 @@ jupyter
 notebook
 pyspark
 sqlalchemy
-psycopg2-binary
+mysql-connector-python
 matplotlib
 seaborn
 scikit-learn
 openpyxl
-mysql
-mysql-connector-python
-mysqlclient
