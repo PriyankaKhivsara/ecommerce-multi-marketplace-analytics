@@ -1,0 +1,12 @@
+The contents of the file /multi_marketplace_pipeline/data/olist_order_items_dataset.csv should be structured as a CSV file. However, since you have not provided the actual data for this CSV file, I will create a placeholder structure for it. 
+
+Here is a sample structure for the `olist_order_items_dataset.csv` file:
+
+order_id,item_id,seller_id,shipping_limit_date,price,freight_value
+1,1,seller_1,2021-01-01,100.00,10.00
+1,2,seller_2,2021-01-01,150.00,15.00
+2,1,seller_1,2021-01-02,200.00,20.00
+2,3,seller_3,2021-01-02,250.00,25.00
+3,2,seller_2,2021-01-03,300.00,30.00
+
+You can replace this sample data with the actual data as needed.

@@ -1,0 +1,8 @@
+The contents of the file /multi_marketplace_pipeline/data/olist_sellers_dataset.csv should be as follows:
+
+seller_id,seller_unique_id,seller_zip_code_prefix,seller_city,seller_state
+1,seller_1,12345,CityA,StateA
+2,seller_2,23456,CityB,StateB
+3,seller_3,34567,CityC,StateC
+4,seller_4,45678,CityD,StateD
+5,seller_5,56789,CityE,StateE

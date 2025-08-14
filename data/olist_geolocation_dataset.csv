@@ -1,0 +1,15 @@
+The contents of the file /multi_marketplace_pipeline/data/olist_geolocation_dataset.csv should be structured as a CSV file. Below is a sample structure for the geolocation dataset, which typically includes columns for customer ID, latitude, longitude, and other relevant geolocation information. You can adjust the headers and sample data as necessary based on the actual dataset you have.
+
+customer_id,latitude,longitude
+1,-23.5505,-46.6333
+2,-22.9068,-43.1729
+3,-15.7801,-47.9292
+4,-3.7172,-38.5433
+5,-23.6824,-46.8756
+6,-22.9083,-43.1964
+7,-12.9716,-38.5014
+8,-30.0346,-51.2177
+9,-23.5505,-46.6333
+10,-23.6824,-46.8756
+
+This is a sample representation; please replace it with the actual data you have for the Olist geolocation dataset.

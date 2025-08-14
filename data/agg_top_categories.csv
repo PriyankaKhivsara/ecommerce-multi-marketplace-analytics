@@ -1,0 +1,12 @@
+The contents of the file /multi_marketplace_pipeline/multi_marketplace_pipeline/data/agg_top_categories.csv should be structured as a CSV file. However, since you haven't provided specific data for this file, I will create a sample structure for it. 
+
+Here is a sample content for agg_top_categories.csv:
+
+category_name, total_sales, total_orders
+Electronics, 150000, 1200
+Fashion, 100000, 800
+Home & Kitchen, 75000, 600
+Books, 50000, 400
+Toys & Games, 30000, 200
+
+You can replace this sample data with the actual aggregated data on the top product categories as needed.

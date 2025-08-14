@@ -1,0 +1,10 @@
+The contents of the file /multi_marketplace_pipeline/data/agg_top_customers.csv should be structured as a CSV file. Here is a sample structure for the `agg_top_customers.csv` file:
+
+customer_id,customer_name,total_spent,order_count
+1,John Doe,1500.00,10
+2,Jane Smith,1200.50,8
+3,Bob Johnson,900.75,5
+4,Alice Williams,850.00,7
+5,Charlie Brown,700.25,4
+
+This is a hypothetical example; you should replace the data with the actual aggregated data for top customers as needed.

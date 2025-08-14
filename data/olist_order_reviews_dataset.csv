@@ -1,0 +1,10 @@
+The contents of the file /multi_marketplace_pipeline/data/olist_order_reviews_dataset.csv should be structured as a CSV file. Here is a sample structure for the Olist order reviews dataset:
+
+order_id,review_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+1,1001,5,"Great product!","I loved the quality and the service was excellent.","2021-01-01 12:00:00",null
+2,1002,4,"Good value for money","The product met my expectations.","2021-01-02 13:00:00",null
+3,1003,3,"Average experience","The product was okay, nothing special.","2021-01-03 14:00:00",null
+4,1004,2,"Not satisfied","The product did not match the description.","2021-01-04 15:00:00",null
+5,1005,1,"Terrible","I had a bad experience with this product.","2021-01-05 16:00:00",null
+
+This is a sample representation; you can replace it with the actual data as needed.

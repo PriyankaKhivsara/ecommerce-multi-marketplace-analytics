@@ -1,0 +1,8 @@
+The file /multi_marketplace_pipeline/data/olist_orders_dataset.csv is intended to contain order data from Olist. Below are the contents for this CSV file, which typically includes headers and some sample data. 
+
+OrderID,CustomerID,OrderStatus,OrderDate,OrderAmount,PaymentMethod
+1,CUST001,Delivered,2023-01-15,100.50,Credit Card
+2,CUST002,Cancelled,2023-01-16,200.75,Debit Card
+3,CUST003,Delivered,2023-01-17,150.00,Cash
+4,CUST004,Pending,2023-01-18,300.25,Credit Card
+5,CUST005,Delivered,2023-01-19,250.00,PayPal

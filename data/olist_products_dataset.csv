@@ -1,0 +1,10 @@
+The contents of the file /multi_marketplace_pipeline/data/olist_products_dataset.csv should be structured as a CSV file. Here is a sample structure for the `olist_products_dataset.csv` file:
+
+product_id,product_category_name,product_name_length,product_description_length,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
+1,Electronics,25,100,3,500,15,10,5
+2,Fashion,30,150,2,300,20,5,10
+3,Home & Living,35,200,4,700,25,15,20
+4,Toys,20,80,1,150,10,5,5
+5,Books,15,300,1,200,15,20,10
+
+This is just a sample representation. The actual data should reflect the product information from the Olist marketplace. If you have specific data to include, please provide that, and I can adjust the contents accordingly.

@@ -1,0 +1,6 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+1,unique_id_1,12345,CityA,StateA
+2,unique_id_2,23456,CityB,StateB
+3,unique_id_3,34567,CityC,StateC
+4,unique_id_4,45678,CityD,StateD
+5,unique_id_5,56789,CityE,StateE
